@@ -79,7 +79,7 @@ I enjoy solving complex problems, developing scalable solutions, and continuousl
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** *[(Add your LinkedIn profile link)](https://www.linkedin.com/in/thaqibrahman/)*  
+- **LinkedIn:** *[Here you go...!!!](https://www.linkedin.com/in/thaqibrahman/)*  
 - **GitHub:** You're already here 😄  
 
 ---
