@@ -15,5 +15,3 @@ AI Virtual Mouse (Hand Gestures) • Medicine Recommendation System • SnappyBi
 
 **Highlights:**  
 🥉 Hackathon – 3rd Place | Multiple AI/ML Internships
-
-📫 **Connect:** [LinkedIn]*(https://www.linkedin.com/in/thaqibrahman/)* | GitHub
